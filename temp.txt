@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I am bad bad girl
+=======
+hello rishi how are you
+>>>>>>> 1405d13fac183bbbdbe1c6329698e009401bf1ed
